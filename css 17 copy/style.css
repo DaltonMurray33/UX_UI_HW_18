@@ -1,0 +1,67 @@
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+}
+.logo{
+    float: left;
+    width: 20%;
+    padding: 1%;
+}
+nav {
+    width: 73%;
+    padding: 1%;
+}
+header ul {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    color: white;
+    font-size: 22px;
+}
+li{
+    text-align: center;
+    list-style: none;
+    float: left;
+    width: 150px;
+}
+.heroImg{
+    height: 600px;
+    padding: 20%;
+    width: 60%;
+}
+.content{
+    width: 500px;
+    color: white;
+    padding-right: 15px;
+}
+h1{
+    text-align: left;
+    font-size: 48px;
+}
+p{
+    font-size: 32px;
+}
+.selfImage{
+    float: right;
+    border-radius: 50px;
+    width: 600px;
+    vertical-align: auto;
+    padding-left: 15px;
+}
+footer li{
+    width: 20%;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 80px;
+    color: white;
+    font-size: 22px;
+}
+footer img{
+    width: 70px;
+    vertical-align: middle;
+}
+.socialLogos{
+    float: right;
+    padding-right: 80px;
+} 
+* {background-color: #496a8f};
